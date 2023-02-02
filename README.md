@@ -66,6 +66,7 @@ The total of non-active users in each cohort month showed an upward trend until 
 
 ![image](https://user-images.githubusercontent.com/123222363/216262433-8fe178ec-7c4d-4b4f-a0c9-9a46ad6c3a97.png)
 
+The result of the query was being processed on Google Sheet for further analysis https://docs.google.com/spreadsheets/d/1P2FocJl-1IyWNqWgXBsx_AyUxFAjpb8Y8z90g5rCIGI/edit?usp=sharing
 The percentage of total user who completed their orders within a year showed stationary trend and tend to slightly showing an uptrend in 2022.
 So, the total user who completed their order hasn’t decreased in a year.
 
